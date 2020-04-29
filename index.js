@@ -4,4 +4,4 @@ function superbowlWin(record) {
   return record.result === "W"
 }
 
-
+record.find(superbowlWin)
