@@ -1,5 +1,5 @@
 const testVar = {}
 
 function superbowlWin(record) {
-  return "hi"
+  return record.year
 }
